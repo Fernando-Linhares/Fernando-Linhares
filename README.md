@@ -1,6 +1,10 @@
 # Fernando-Linhares
 
-I'm from Brasil, backend developer since 2019.
+I'm from Brazil, backend developer since 2019. I do my own projects and freelancers. Currently
+serving the Brazilian air force in the IT sector. I like challenges and I'm always studying new
+methodologies.
+
+The php world is my main stack and i identify a lot with laravel framework.
 
 
   ### Social Network
