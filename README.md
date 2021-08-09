@@ -8,7 +8,7 @@ I'm from Brasil, backend developer since 2019.
         <a href="https://br.linkedin.com/in/fernando-linhares-7037651b6"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px"></a>
   </p>
   
-  ![](https://komarev.com/ghpvc/?username=nandolinhares)
+  ![](https://komarev.com/ghpvc/?username=Fernando-Linhares)
 
 
 ### Skills
