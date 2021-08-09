@@ -14,7 +14,7 @@ I'm from Brasil, backend developer since 2019.
 ### Skills
 <p align="center">
   <img src="https://symfony.com/logos/symfony_black_02.svg" alt="Symfony" style="vertical-align:top margin:6px 4px">
-
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Symfony" style="vertical-align:top margin:6px 4px">
 </p>
 <p align="center">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
