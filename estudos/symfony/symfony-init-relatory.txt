@@ -1,0 +1,44 @@
+Para fazer instalação do symfony de inicialização use o comando
+
+	#para criar apis, console apps, e microserviços.
+	$ composer create-project symfony/skeleton [NOME DO PROJETO]
+	
+	#para criar uma aplicação tradicional um site ou blog
+	$ composer create-project symfony/website-skeleton [NOME DO PRIJETO]
+
+Para instalar o cli do symfony (linux).
+
+	$ wget https://get.symfony.com/cli/installer -O - | bash
+	sudo mv /home/fernando/.symfony/bin/symfony /usr/local/bin/symfony
+	
+Criando projeto com cli:
+
+	#para criar api, console app, e microserviços.
+	$ symfony new [NOME DO PROJETO]
+	
+	#para criar aplicação tradicional blog, site, etc..	
+	$ symfony new [NOME DO PROJETO] --full
+
+
+Será criado uma pasta com o nome do projeto descrito. Ainda sem
+dependencias. O symfony permite que o desenvolvedor tenha total liberdade
+de implementação de suas dependencias, quais usar e quais manter,
+quem decide é o desenvolvedor,  dando assim mais autonomia e praticidade,
+visto que a responsabilidade de performace e arquitetura se torna do
+desenvolvedor.
+
+A versão LTS do Symfony é 4.4.
+Para obter a obter a versão lts use o comando:
+
+	$ composer create-project symfony/website-skeleton:"^4.4" [NOME DO PROJETO]
+
+Para saber qual versão do symfony e também ter informações do ambiente
+use o comando:
+
+	$ bin/console about
+
+Para obter mais informações sobre as dependencias instaladas use o comando:
+	
+	$ composer recipes
+	
+

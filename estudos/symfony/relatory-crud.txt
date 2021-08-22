@@ -1,0 +1,12 @@
+>Iniciei o projeto
+>Instalei as dependencias mais comuns: orm, serializer, twig, annotations.
+>Fiz as rotas nas annotations
+>Fiz frontend com twig
+   >Problema com a rota delete:
+	*o formulário post enviado não aceitava o
+	campo _method para o verbo http.
+	
+	
+	X      a solução foi usar mais de um método na mesma rota.    X
+	
+finalizado projeto commitado pro git em https://github.com/Fernando-Linhares/crud_symfony
