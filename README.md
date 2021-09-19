@@ -16,36 +16,36 @@ The php world is my main stack and i identify a lot with laravel framework.
 
 
 ### Skills
-  <table>
-      <tbody>
-          <tr><td>PHP</td></tr>
-          <tr>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"></td>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"></td>
-          </tr>
-          <tr>
-              <h3><td>.NET</td></h3>
-          </tr>
-          <tr>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"></td>
-              <td><img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px"style="vertical-align:top; margin:6px 4px"></td>
-          </tr>
-          <tr><td>Front End</td></tr>
-          <tr>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" ></td>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS"></td>
-           </tr>
-           <tr>   
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript"></td>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap"></td>
-          </tr>
-          <tr><td>Tool</td></tr>
-          <tr>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" ></td>
-              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker"></td>
-          </tr>
-      </tbody>
-  </table>
+ <table>
+    <tbody>
+        <tr><td rollspan="2">PHP</td></tr>
+        <tr>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"></td>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"></td>
+        </tr>
+        <tr>
+            <h3><td rollspan="2">.NET</td></h3>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"></td>
+            <td><img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px"style="vertical-align:top; margin:6px 4px"></td>
+        </tr>
+        <tr><td rollspan="2">Front End</td></tr>
+        <tr>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" ></td>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS"></td>
+         </tr>
+         <tr>   
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript"></td>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap"></td>
+        </tr>
+        <tr><td rollspan="2">Tools</td></tr>
+        <tr>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" ></td>
+            <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker"></td>
+        </tr>
+    </tbody>
+</table>
   
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Linhares&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
