@@ -23,8 +23,14 @@ The php world is my main stack and i identify a lot with laravel framework.
               <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"></td>
           </tr>
           <tr>
+              <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"></td>
+              <td><img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px"style="vertical-align:top; margin:6px 4px"></td>
+          </tr>
+          <tr>
               <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" ></td>
               <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS"></td>
+           </tr>
+           <tr>   
               <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript"></td>
               <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap"></td>
           </tr>
