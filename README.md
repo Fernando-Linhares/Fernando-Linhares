@@ -17,20 +17,21 @@ The php world is my main stack and i identify a lot with laravel framework.
 
 ### Skills
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel" style="vertical-align:top margin:6px 4px">
-    <img src="https://symfony.com/logos/symfony_black_02.svg" alt="Symfony" style="vertical-align:top margin:6px 4px;" width="200">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel" style="vertical-align:top; margin:6px 4px;">
+    <img src="https://symfony.com/logos/symfony_black_02.svg" alt="Symfony" style="vertical-align:top; margin:6px 4px;" width="200">
   <hr />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top margin:6px 4px">
-<img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px"style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+<img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px"style="vertical-align:top; margin:6px 4px">
 <hr />
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top margin:6px 4px">
-     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:6px 4px">
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
  <hr />
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:6px 4px;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px;">
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Linhares&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
