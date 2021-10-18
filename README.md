@@ -16,9 +16,9 @@ The php world is my main stack and i identify a lot with laravel framework.
 
 
 ### Skills
-| Languages | Frameworks | Tools |
-| ------ | ------ | ------ |
-| <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" > |
+| Languages | Frameworks | Tools | Databases |
+| ------ | ------ | ------ | ------ |
+| <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" > | [https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg] |
 | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"> |  <img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px" style="vertical-align:top; margin:6px 4px"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker"> |
 | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" > |
 
