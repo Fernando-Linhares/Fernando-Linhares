@@ -19,11 +19,9 @@ The php world is my main stack and i identify a lot with laravel framework.
 | Languages | Frameworks |
 | ------ | ------ |
 | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"> |
-| <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"> |  <img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px"style="vertical-align:top; margin:6px 4px"> |
+| <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"> |  <img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px" style="vertical-align:top; margin:6px 4px"> |
 | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="Javascript"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap"> |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
  <table>
     <tbody>
         <tr>
