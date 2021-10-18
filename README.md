@@ -16,9 +16,16 @@ The php world is my main stack and i identify a lot with laravel framework.
 
 
 ### Skills
+| Languages | dev tools |
+| ------ | ------ |
+| <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"> | |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
  <table>
     <tbody>
-        <tr><td collspan="2">PHP</td></tr>
         <tr>
             <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"></td>
             <td><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"></td>
