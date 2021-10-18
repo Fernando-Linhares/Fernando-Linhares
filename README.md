@@ -1,4 +1,4 @@
-# Fernando-Linhares
+# Fernando Linhares
 
 I'm from Brazil, backend developer since 2019. I do my own projects and freelancers. Currently
 serving the Brazilian air force in the IT sector. I like challenges and I'm always studying new
