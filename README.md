@@ -16,7 +16,7 @@ The php world is my main stack and i identify a lot with laravel framework.
 
 
 ### Skills
-| Languages | Frameworks |
+| Languages | Frameworks | Tools |
 | ------ | ------ |
 | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php"> | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" alt="Laravel"> |
 | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px;"> |  <img src="https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg" alt=".net" height="20px" style="vertical-align:top; margin:6px 4px"> |
