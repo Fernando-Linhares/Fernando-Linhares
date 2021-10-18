@@ -51,7 +51,10 @@ The php world is my main stack and i identify a lot with laravel framework.
         </tr>
     </tbody>
 </table>
-  
+  | Tools |
+  |--------|
+  | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" > |
+  | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker"> |
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Linhares&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Linhares&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
