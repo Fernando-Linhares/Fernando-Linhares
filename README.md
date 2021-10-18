@@ -52,7 +52,7 @@ The php world is my main stack and i identify a lot with laravel framework.
     </tbody>
 </table>
   | Tools |
-  |--------|
+  | -------- |
   | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" > |
   | <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker"> |
   
