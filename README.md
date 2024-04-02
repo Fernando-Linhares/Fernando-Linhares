@@ -1,10 +1,7 @@
 # Fernando Linhares
 
-I'm from Brazil, backend developer since 2019. I do my own projects and freelancers. Currently
-serving the Brazilian air force in the IT sector. I like challenges and I'm always studying new
-methodologies.
+Sou desenvolvedor de software com mais de 5 anos de experiência. Gosto de desafios! Minha especialidade é em sistemas Fullstack. Tenho habilidades em alta performance, como filas assíncronas e broadcasting. Possuo um bom conhecimento em assinatura digital com criptografia simétrica e assimétrica. Já trabalhei em projetos que utilizam assinadores digitais e comunicação em tempo real. Atualmente, trabalho em projetos que envolvem integrações com plataformas distintas e um sistema de e-commerce. Estou sempre em busca de novos desafios e adoro projetos complexos. Sou um grande admirador do manifesto ágil e sempre prefiro investir em estratégias visando alta qualidade e elegância para o código.
 
-The php world is my main stack and i identify a lot with laravel framework.
 
 
   ### Social Network
